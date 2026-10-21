@@ -1,0 +1,1 @@
+PR0J3CT: #HYP3RN0VA is a musical keyboard where you can create your own custom musical tracks. HYP3RN0VA will be a PCB design, first the design process will be on a schematic editor, then transferred to the PCB editor where the music magic happens.
