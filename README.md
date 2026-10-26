@@ -25,6 +25,30 @@ After the inital design, we're customizing the capacitive keys footprint, transf
 <img width="375" height="437" alt="Screenshot 2026-10-23 170030"
 src="https://github.com/user-attachments/assets/1392667a-dbfa-4e67-ad18-ca7c96fb587e" />
 
+Then, comes the wiring, edging, and rounding the corners with the Edge.cuts, F.cu, B.cu, F.silkscreen and B.silkscreen:
+
+<img width="703" height="427" alt="Screenshot 2026-10-23 215427" src="https://github.com/user-attachments/assets/19eec4d1-d2de-43ec-b045-33adb1ae1077" />
+
+<img width="528" height="427" alt="Screenshot 2026-10-23 215444" src="https://github.com/user-attachments/assets/cb9c6d10-a410-45d1-b108-d8305d4493e5" />
+
+<img width="531" height="447" alt="Screenshot 2026-10-24 212755" src="https://github.com/user-attachments/assets/f3106f06-1c36-4ee3-afb7-6f1259723bf2" />
+
+<img width="549" height="424" alt="Screenshot 2026-10-24 212937" src="https://github.com/user-attachments/assets/f98903d2-89da-4aa9-8f12-0b42c9c09e89" />
+
+<img width="664" height="507" alt="Screenshot 2026-10-25 102440" src="https://github.com/user-attachments/assets/afc20e7d-3aee-41ad-96b8-ed2e1355c7db" />
+
+The 3D modeling's next, cuz what's a keyboard without 3D stuff to press and play on???
+
+<img width="590" height="453" alt="Screenshot 2026-10-25 171433" src="https://github.com/user-attachments/assets/ec4490ec-bc9d-46e1-a678-24f35220ce34" />
+
+After is the fabrication, which after installing and going onto a PCB website, it will turn out like this:
+
+<img width="748" height="174" alt="Screenshot 2026-10-25 172935" src="https://github.com/user-attachments/assets/f9903657-2992-4275-b251-9e69976e8fa4" />
+
+
+
+
+
 
 
 
