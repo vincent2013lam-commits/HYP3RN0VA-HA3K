@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 20.5h | 4 |
+| Week 3 | Tier 1 | 21.5h | 4 |
 
 ## Contents
 
@@ -107,7 +107,7 @@ During the wiring process, the blue lines can't intersect blue lines, the red co
 
 ### 2026-10-25 – October 24: #H9Y3RN0VA!!!
 
-**7h**
+**8h**
 
 October 24: #H9Y3RN0VA!!!
 
@@ -115,7 +115,12 @@ First time customizing H9P3RN0VA, I just plot the images (footprints) into the P
 
 ![Screenshot 2026-10-24 212755](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/13d031e91182a5a162920a4ed2424e8ba24898a4f05930226c134fdef2faae19.png)
 
-The B.silkscreen images were harder to make, it's the same process as the F.silkscreen images, but I have to manually edit it to B.silkscreen in the footprint editor, save it, and then update it to the PCB. It turned out satisfying though (don't get me wrong):
+First, take a line art, put it into the image converter, then size it appropriately, and then set the image to footprint and export to file. Once I came to the PCB editor, I added the footprint using A.
+This was an image I didn't use, it didn't fit within the context:
+
+![8c92c8bd05fa18817705848945db76e7_t](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/99b86114b546298ef6b07f2d6c9c7053dad7bfec8358b25d66b9aa76f48f2a9d.jpg)
+
+The B.silkscreen images were harder to make, it's the same process as the F.silkscreen images, but I have to manually edit it to B.silkscreen in the Footprint editor, save it, and then update it to the PCB. It turned out satisfying though (don't get me wrong):
 
 ![Screenshot 2026-10-24 212937](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/ed0525c3255aee39ec45963901bacf612f0fc6a472d0b38c98afd34293f0c42d.png)
 
