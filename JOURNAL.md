@@ -139,3 +139,8 @@ I also redid the wiring because of this (still annoying to redo):
 ![Screenshot 2026-10-24 233547](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/4c82abb5193a618e822fd7eb795d9b8f8dab69a59e917cd5b7ed73bda4950fe1.png)
 
 ![Screenshot 2026-10-24 233601](https://halflife.hackclub-assets.com/sessions/UMx8GtS67VH17jO55ZdjXA5Q5GgA51Ts/5ef2b933f446421694e5212a7de5ef51e4848ff98df12d9155dadb49e49d25c7.png)
+
+I'm also a perfectionist, so I started the wires over countless times, so here's my memory rundown:
+
+F.cu goes with the touch keys, TX, RX, and part of the GND system, EN1C (maybe) A, C, and B
+B.cu goes with he +3V3, +5V, LED, and the other part of the GND system.
